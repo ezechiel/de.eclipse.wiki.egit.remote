@@ -7,6 +7,9 @@ public class Hello {
      */
     public static void main(String[] args) {
 
+        int i =0;
+        i++;
+        
         //makes a sysout
         System.out.println("Hello World");
         //added a comment
