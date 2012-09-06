@@ -1,6 +1,6 @@
 package de.matthaeis.hello;
 
-public class Hello {
+public class Hello2 {
 
     /**
      * @param args
