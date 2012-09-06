@@ -9,6 +9,7 @@ public class Hello {
 
         int i =0;
         i++;
+        i++;
         
         //makes a sysout
         System.out.println("Hello World");
