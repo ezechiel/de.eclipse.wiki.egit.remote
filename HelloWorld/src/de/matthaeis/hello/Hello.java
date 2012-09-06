@@ -10,4 +10,7 @@ public class Hello {
 
     }
 
+    public void foo() {
+        //do foo
+    }
 }
